@@ -1,2 +1,2 @@
-### Wednesday 1/25
+### Thursday 1/26
 
