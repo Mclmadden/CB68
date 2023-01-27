@@ -9,10 +9,15 @@ Data transferred over to my birdseye directory under the two directories: `CB68-
 Open CARTA via ssh tunneling: https://casadocs.readthedocs.io/en/stable/notebooks/carta.html#Running-CARTA-at-NRAO
 
 Eventually use parabolic outflow model (Lee et al. 2000; Oya et al. 2018) on CB68:
-```math
-z = CR^2, v_R = v_0 \frac{R}{R_0}, v_z = v_0 \frac{z}{z_0}
-```
-where z is the point on the z-axis, which is along the outflow with the origin at the protostar; R is the radial size of the outflow cavity; and $(v_z)$ is the velocity component along the z-axis. C and ```math v_0 ``` are free paramters. 
+
+$$z = CR^2, v_R = v_0 \frac{R}{R_0}, v_z = v_0 \frac{z}{z_0}$$
+
+where z is the point on the z-axis, which is along the outflow with the origin at the protostar; R is the radial size of the outflow cavity; and $v_z$ is the velocity component along the z-axis. C and $v_0$ are free parameters.
+The opening angle of the outflow ($\theta$) is calculated from:
+
+$$tan\frac{\theta}{2} = \frac{\sqrt{a/C}}{a} = \frac{1}{\sqrt{aC}}$$
+
+where $a$ is a fixed distance along the outflow axis from the protostar, and $R = \sqrt{a/C}$.
 
 ### Friday 1/27
 
