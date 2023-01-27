@@ -14,7 +14,7 @@ $$z = CR^2, v_R = v_0 \frac{R}{R_0}, v_z = v_0 \frac{z}{z_0}$$
 
 where $z$ is the point on the z-axis, which is along the outflow with the origin at the protostar; $R$ is the radial size of the outflow cavity; and $v_z$ is the velocity component along the z-axis. $C$ and $v_0$ are free parameters. Oya et al. (2018) set both normalization constants $z_0$ and $R_0$ to 1 au.
 
-The opening angle of the outflow ($\theta$) is calculated from:
+The opening angle of the outflow ($ \theta $) is calculated from:
 
 $$tan\frac{\theta}{2} = \frac{\sqrt{a/C}}{a} = \frac{1}{\sqrt{aC}}$$
 
