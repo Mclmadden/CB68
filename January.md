@@ -6,7 +6,7 @@ Data transferred over to my birdseye directory under the two directories: `CB68-
 
 `moments` contains moment 0, 1, and 2 maps of each molecular tracer.
 
-Open CARTA via ssh tunneling: `https://casadocs.readthedocs.io/en/stable/notebooks/carta.html#Running-CARTA-at-NRAO`
+Open CARTA via ssh tunneling: https://casadocs.readthedocs.io/en/stable/notebooks/carta.html#Running-CARTA-at-NRAO
 
 ### Friday 1/27
 
