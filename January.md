@@ -11,3 +11,7 @@ Open CARTA via ssh tunneling: `https://casadocs.readthedocs.io/en/stable/noteboo
 ### Friday 1/27
 
 Inspect data in CARTA, using Position-Velocity (PV) image generator. 
+
+Look into the documentation to create moment maps and PV diagrams using CASA toolkits (`ia.moments`, `ia.pv`) tasks (`immoments`, `impv`) and Python libraries (`spectral_cube` and `pvextractor`).
+
+Waiting on lustre based in NM to be set up... 
