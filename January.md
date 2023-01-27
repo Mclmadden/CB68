@@ -24,10 +24,17 @@ Additionally, apply infalling-rotating envelope (IRE) model that conserves aongu
 
 $$j = \sqrt{2GMr_{CB}}$$
 
+
 ### Friday 1/27
 
 Inspect data in CARTA, using Position-Velocity (PV) image generator widget: https://carta.readthedocs.io/en/3.0/analysis_tools.html#position-velocity-pv-image-generator 
 
 Look into the documentation to create moment maps and PV diagrams using CASA toolkits (`ia.moments`, `ia.pv`) tasks (`immoments`, `impv`) and Python libraries (`spectral_cube` and `pvextractor`).
 
-Waiting on lustre based in NM to be set up... 
+Waiting on lustre based in NM to be set up... use `befast` drive for now.
+
+Save "overview level" PV diagrams directly from CARTA.
+
+Determine parameters (e.g. min value, max value, color stretch, colormap, field of view) in CARTA for later use in matplotlib scripts.
+
+Future advice: import individual plots into Inkscape to group together as "subfigures" instead of managing multiple figures in LaTeX.
