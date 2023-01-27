@@ -20,6 +20,10 @@ $$tan\frac{\theta}{2} = \frac{\sqrt{a/C}}{a} = \frac{1}{\sqrt{aC}}$$
 
 where $a$ is a fixed distance along the outflow axis from the protostar, and $R = \sqrt{a/C}$.
 
+Additionally, apply infalling-rotating envelope (IRE) model that conserves aongular momentum of the system (Oya et al. 2014, 2018). The specific angular momentum $(j)$ is calculated from the gravitational constant $(G)$, protostellar mass $(M)$, and the radius of the centrifugal barrier $(r_{CB})$ :
+
+$$j = \sqrt{2GMr_{CB}}$$
+
 ### Friday 1/27
 
 Inspect data in CARTA, using Position-Velocity (PV) image generator widget: https://carta.readthedocs.io/en/3.0/analysis_tools.html#position-velocity-pv-image-generator 
