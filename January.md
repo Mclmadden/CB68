@@ -50,8 +50,10 @@ Encountering error when attempting to install jupyter and jupyterlab: `pip3 inst
 
 Work station has Python 3.6.8 and pip 9.0.3
 
---> updated pip3 and force reinstalled 
+--> updated pip3 and force reinstalled
+
 --> `pip3 install --user jupyterlab` resulted in `Successfully installed babel-2.11.0 json5-0.9.11 jupyter-server-1.13.1 jupyterlab-3.2.9 jupyterlab-server-2.10.3 nbclassic-0.3.5`
+
 --> must add the user-level bin directory to PATH environment variable in order to launch jupyter lab as per the jupyter lab documentation 
 
 For now, experiment with Python libraries to make PV diagrams on laptop with Jupyter Lab. 
