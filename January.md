@@ -20,7 +20,7 @@ $$tan\frac{\theta}{2} = \frac{\sqrt{a/C}}{a} = \frac{1}{\sqrt{aC}}$$
 
 where $a$ is a fixed distance along the outflow axis from the protostar, and $R = \sqrt{a/C}$.
 
-Additionally, apply infalling-rotating envelope (IRE) model that conserves aongular momentum of the system (Oya et al. 2014, 2018). The specific angular momentum $(j)$ is calculated from the gravitational constant $(G)$, protostellar mass $(M)$, and the radius of the centrifugal barrier $(r_{CB})$ :
+Additionally, apply infalling-rotating envelope (IRE) model that conserves angular momentum of the system (Oya et al. 2014, 2018). The specific angular momentum $(j)$ is calculated from the gravitational constant $(G)$, protostellar mass $(M)$, and the radius of the centrifugal barrier $(r_{CB})$ :
 
 $$j = \sqrt{2GMr_{CB}}$$
 
@@ -42,6 +42,8 @@ Future advice: import individual plots into Inkscape to group together as "subfi
 
 ### Monday 1/30
 
-Continue making PV diagrams in CARTA.
+Continue inspecting PV diagrams in CARTA with the primary-beam-corrected images.
+
+Start with H$_2$CO, CS, CCH, SO, and SiO.
 
 Encountering error when attempting to install jupyter and jupyterlab: `pip3 install --user jupyter`
