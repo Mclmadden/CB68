@@ -47,3 +47,7 @@ Continue inspecting PV diagrams in CARTA with the primary-beam-corrected images.
 Start with $H_2CO$, CS, CCH, SO, and SiO.
 
 Encountering error when attempting to install jupyter and jupyterlab: `pip3 install --user jupyter`
+
+Work station has Python 3.6.8 and pip 9.0.3
+
+For now, experiment with Python libraries to make PV diagrams on laptop with Jupyter Lab. 
