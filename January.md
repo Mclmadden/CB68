@@ -44,6 +44,6 @@ Future advice: import individual plots into Inkscape to group together as "subfi
 
 Continue inspecting PV diagrams in CARTA with the primary-beam-corrected images.
 
-Start with H$_2$CO, CS, CCH, SO, and SiO.
+Start with $H_2CO$, CS, CCH, SO, and SiO.
 
 Encountering error when attempting to install jupyter and jupyterlab: `pip3 install --user jupyter`
