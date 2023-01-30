@@ -38,3 +38,10 @@ Save "overview level" PV diagrams directly from CARTA.
 Determine parameters (e.g. min value, max value, color stretch, colormap, field of view) in CARTA for later use in matplotlib scripts.
 
 Future advice: import individual plots into Inkscape to group together as "subfigures" instead of managing multiple figures in LaTeX.
+
+
+### Monday 1/30
+
+Continue making PV diagrams in CARTA.
+
+Encountering error when attempting to install jupyter and jupyterlab: `pip3 install --user jupyter`
