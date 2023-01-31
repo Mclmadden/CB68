@@ -56,4 +56,11 @@ Work station has Python 3.6.8 and pip 9.0.3
 
 --> must add the user-level bin directory to PATH environment variable in order to launch jupyter lab as per the jupyter lab documentation 
 
-For now, experiment with Python libraries to make PV diagrams on laptop with Jupyter Lab. 
+
+### Tuesday 1/31
+
+Attempting to ssh into Jupyter Lab from birdseye.
+
+"Must add user-level `bin` directory to `PATH` environment bariable in order to launch `jupyter lab`" by running `export PATH="$HOME/.local/bin:$PATH"` before `pip3 install --user jupyterlab`
+
+Installation successful, but ssh tunneling results in `channel 2: open failed: administratively prohibited: open failed` when trying to open browser to localhost.
