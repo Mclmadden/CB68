@@ -66,3 +66,5 @@ Attempting to ssh into Jupyter Lab from birdseye.
 Installation successful, but ssh tunneling results in `channel 2: open failed: administratively prohibited: open failed` when trying to open browser to localhost.
 
 Returning same error when attempting to ssh into CARTA again... 
+
+In the meantime, download FITS cube from ALMA Archive (CCH) to experiment with in Python.
