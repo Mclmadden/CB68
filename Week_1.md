@@ -38,33 +38,3 @@ Save "overview level" PV diagrams directly from CARTA.
 Determine parameters (e.g. min value, max value, color stretch, colormap, field of view) in CARTA for later use in matplotlib scripts.
 
 Future advice: import individual plots into Inkscape to group together as "subfigures" instead of managing multiple figures in LaTeX.
-
-
-### Monday 1/30
-
-Continue inspecting PV diagrams in CARTA with the primary-beam-corrected images.
-
-Start with $H_2CO$, CS, CCH, SO, and SiO.
-
-Encountering error when attempting to install jupyter and jupyterlab: `pip3 install --user jupyter`
-
-Work station has Python 3.6.8 and pip 9.0.3
-
---> updated pip3 and force reinstalled
-
---> `pip3 install --user jupyterlab` resulted in `Successfully installed babel-2.11.0 json5-0.9.11 jupyter-server-1.13.1 jupyterlab-3.2.9 jupyterlab-server-2.10.3 nbclassic-0.3.5`
-
---> must add the user-level bin directory to PATH environment variable in order to launch jupyter lab as per the jupyter lab documentation 
-
-
-### Tuesday 1/31
-
-Attempting to ssh into Jupyter Lab from birdseye.
-
-"Must add user-level `bin` directory to `PATH` environment bariable in order to launch `jupyter lab`" by running `export PATH="$HOME/.local/bin:$PATH"` before `pip3 install --user jupyterlab`
-
-Installation successful, but ssh tunneling results in `channel 2: open failed: administratively prohibited: open failed` when trying to open browser to localhost.
-
-Returning same error when attempting to ssh into CARTA again... 
-
-In the meantime, download FITS cube from ALMA Archive (CCH) to experiment with in Python.
