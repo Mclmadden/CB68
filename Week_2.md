@@ -29,3 +29,7 @@ In the meantime, download FITS cube from ALMA Archive (CCH) to experiment with i
 
 
 ### Wednesday 2/1
+
+Took 3 tries to ssh into birdseye, running into `connection timed out` and `connection refused` the initial attempts.
+
+Remove `/usr/local/bin:` from PATH in `~/.basshrc`
