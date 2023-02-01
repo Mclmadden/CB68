@@ -35,3 +35,5 @@ Took 3 tries to ssh into birdseye, running into `connection timed out` and `conn
 Remove `/usr/local/bin:` from PATH in `~/.bashrc`, leaving `PATH=/usr/local/gnu/bin:/usr/bin:/usr/sbin:/usr/openwin/bin ; export PATH` --> still prohibited from opening any ssh tunnel.
 
 Continue with CCH Archive data on local drive.
+
+Convert spectral axis of FITS files from default frequency (Hz) to velocity (km/s) using rest value found in file headers: `with_spectral_unit(u.km/u.s, velocity_convention='radio', rest_value=Value * u.Hz)`
