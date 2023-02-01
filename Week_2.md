@@ -32,6 +32,6 @@ In the meantime, download FITS cube from ALMA Archive (CCH) to experiment with i
 
 Took 3 tries to ssh into birdseye, running into `connection timed out` and `connection refused` the initial attempts.
 
-Remove `/usr/local/bin:` from PATH in `~/.basshrc`, leaving `PATH=/usr/local/gnu/bin:/usr/bin:/usr/sbin:/usr/openwin/bin ; export PATH`
+Remove `/usr/local/bin:` from PATH in `~/.bashrc`, leaving `PATH=/usr/local/gnu/bin:/usr/bin:/usr/sbin:/usr/openwin/bin ; export PATH` --> still prohibited from opening any ssh tunnel.
 
-
+Continue with CCH Archive data on local drive.
