@@ -37,3 +37,8 @@ Remove `/usr/local/bin:` from PATH in `~/.bashrc`, leaving `PATH=/usr/local/gnu/
 Continue with CCH Archive data on local drive.
 
 Convert spectral axis of FITS files from default frequency (Hz) to velocity (km/s) using rest value found in file headers: `with_spectral_unit(u.km/u.s, velocity_convention='radio', rest_value=Value * u.Hz)`
+
+### Thursday 2/2
+
+Running CCH Archive file through `with_spectral_unit()` results in `KeyError: PhysicalType('frequency')`
+
