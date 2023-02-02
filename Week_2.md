@@ -47,3 +47,8 @@ Running CCH Archive file through `with_spectral_unit()` results in `KeyError: Ph
 Adele posted issue on spectral-cube Github Issues page: https://github.com/radio-astro-tools/spectral-cube/issues/830
 
 Solution is the update spectral-cube to version 0.6.0. Imported spectral-cube and default installation was version 0.5.0.
+
+`pip3 install --upgrade spectral-cube` updates to spectral-cube v0.6.0 (and successfully carries over to jupyterlab).
+
+Able to convert spectral axis from frequency to velocity! 
+
