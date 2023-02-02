@@ -21,7 +21,9 @@ Attempting to ssh into Jupyter Lab from birdseye.
 
 "Must add user-level `bin` directory to `PATH` environment bariable in order to launch `jupyter lab`" by running `export PATH="$HOME/.local/bin:$PATH"` before `pip3 install --user jupyterlab`
 
-Installation successful, but ssh tunneling results in `channel 2: open failed: administratively prohibited: open failed` when trying to open browser to localhost.
+SSH into jupyter lab: `jupyter lab --no-browser` (usually port 8888) and open local host in browser.
+
+Error: `channel 2: open failed: administratively prohibited: open failed` when trying to open browser. (Sometimes it's `channel 1`.
 
 Returning same error when attempting to ssh into CARTA again... 
 
@@ -40,5 +42,6 @@ Convert spectral axis of FITS files from default frequency (Hz) to velocity (km/
 
 ### Thursday 2/2
 
-Running CCH Archive file through `with_spectral_unit()` results in `KeyError: PhysicalType('frequency')`
+Use `StokesSpectralCube` for FITS cubes with Stokes axis.
 
+Running CCH Archive file through `with_spectral_unit()` results in `KeyError: PhysicalType('frequency')`
