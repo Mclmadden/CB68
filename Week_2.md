@@ -42,6 +42,8 @@ Convert spectral axis of FITS files from default frequency (Hz) to velocity (km/
 
 ### Thursday 2/2
 
-Use `StokesSpectralCube` for FITS cubes with Stokes axis.
-
 Running CCH Archive file through `with_spectral_unit()` results in `KeyError: PhysicalType('frequency')`
+
+Adele posted issue on spectral-cube Github Issues page: https://github.com/radio-astro-tools/spectral-cube/issues/830
+
+Solution is the update spectral-cube to version 0.6.0. Imported spectral-cube and default installation was version 0.5.0.
