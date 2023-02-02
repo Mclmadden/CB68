@@ -52,3 +52,7 @@ Solution is the update spectral-cube to version 0.6.0. Imported spectral-cube an
 
 Able to convert spectral axis from frequency to velocity! 
 
+Start formatting PV diagram (and moment 0 map) finally for CCH.
+
+
+### Friday 2/3 
