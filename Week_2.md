@@ -56,3 +56,9 @@ Start formatting PV diagram (and moment 0 map) finally for CCH.
 
 
 ### Friday 2/3 
+
+Refresher on formatting in matplotlib (refer to Perseus/Serpens jupyter notebook). 
+
+`pvextractor.extract_pv_slice()` returns data shape (476,57).
+
+Difficulty adjusting the axes ranges and tick labels, as well as the colorbar (`vmin` and `vmax`). 
