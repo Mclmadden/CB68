@@ -61,4 +61,6 @@ Refresher on formatting in matplotlib (refer to Perseus/Serpens jupyter notebook
 
 `pvextractor.extract_pv_slice()` returns data shape (476,57).
 
-Difficulty adjusting the axes ranges and tick labels, as well as the colorbar (`vmin` and `vmax`). 
+`pvextractor` GitHub Issues page directs to documentation for plotting the PV slices: https://github.com/radio-astro-tools/pvextractor/issues/101 
+
+Try other FITS cubes, e.g. SO and CS. 
