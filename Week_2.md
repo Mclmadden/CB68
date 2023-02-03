@@ -59,7 +59,7 @@ Start formatting PV diagram (and moment 0 map) finally for CCH.
 
 Refresher on formatting in matplotlib (refer to Perseus/Serpens jupyter notebook). 
 
-`pvextractor.extract_pv_slice()` returns data shape (476,57).
+`pvextractor.extract_pv_slice()` returns data shape (476,57). Offset axis looks suspicious, only showing values >0. 
 
 `pvextractor` GitHub Issues page directs to documentation for plotting the PV slices: https://github.com/radio-astro-tools/pvextractor/issues/101 
 
