@@ -14,3 +14,14 @@ birdseye drive failed, resulting in a reboot --> in the short term, provision ne
 Divide large data cubes into sub-cubes +/-20 km/s from system velocity (5-6 km/s?).
 
 Eventually, model fitting via birdseye... 
+
+`ax.set_ylim()` and `plt.ylim()` not behaving as expected when attempting to adjust range of the velocity axis.
+
+
+### Wednesday 2/8
+
+
+### Thursday 2/9
+
+
+### Friday 2/10
