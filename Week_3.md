@@ -22,11 +22,15 @@ Temporary solution is "plug and chug" indices until image is framed as desired.
 
 ### Wednesday 2/8
 
-When birdseye was rebooted, my ssh tunnels were closed and must be set up again.
+When birdseye was rebooted, my ssh tunnels were closed and must be set up again. Following initial steps to set up vncserver --> still returning `channel 2: open failed: administratively prohibited: open failed`
 
 Center offset of PV diagrams on the protostellar outflow: slice perpendicular to the position angle of the outflow (142° in Imai et al. 2022). Slices taken along outflow should have P.A. = 232°.
 
 Take a ray from the continuum source location (Imai et al. 2022) direct along the outflow P.A., where a 0" angular offset would be the position along the ray with each PV diagram slice drawn perpendicular to the "outflow ray." Follow conventions for creating the PV diagrams in Oya et al. (2018) when possible. 
+
+Peak position of 1.3mm dust continuum located R.A. = 16h 57m 19.647s, Dec = -16° 9' 23.94" (varies slightly from coordinates given in SIMBAD). 
+
+Find method to set continuum source as angular offset 0" while default starts at endpoint of slice. 
 
 
 ### Thursday 2/9
