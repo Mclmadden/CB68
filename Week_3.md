@@ -22,6 +22,10 @@ Temporary solution is "plug and chug" indices until image is framed as desired.
 
 ### Wednesday 2/8
 
+When birdseye was rebooted, my ssh tunnels were closed and must be set up again.
+
+Center offset of PV diagrams on the protostellar outflow: slice perpendicular to the position angle of the outflow (142° in Imai et al. 2022). 
+
 
 ### Thursday 2/9
 
