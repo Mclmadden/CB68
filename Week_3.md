@@ -15,7 +15,9 @@ Divide large data cubes into sub-cubes +/-20 km/s from system velocity (5-6 km/s
 
 Eventually, model fitting via birdseye... 
 
-`ax.set_ylim()` and `plt.ylim()` not behaving as expected when attempting to adjust range of the velocity axis.
+`ax.set_ylim()` and `plt.ylim()` not behaving as expected when attempting to adjust range of the velocity axis --> taking parameters as indices instead of velocities --> discrepancy between displayed velocity axis and axis attribute parameter interpretation --> Python struggling to read the axes from `pvextractor.extract_pv_slice`?
+
+Temporary solution is "plug and chug" indices until image is framed as desired. 
 
 
 ### Wednesday 2/8
