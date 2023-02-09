@@ -35,7 +35,7 @@ Find method to set continuum source as angular offset 0" while default starts at
 
 ### Thursday 2/9
 
-[`wcs_pix2world`](https://docs.astropy.org/en/stable/api/astropy.wcs.WCS.html#astropy.wcs.WCS.wcs_pix2world) struggling with arrays given from `sample_points` attribute of PathFromCenter. 
+[`wcs_pix2world`](https://docs.astropy.org/en/stable/api/astropy.wcs.WCS.html#astropy.wcs.WCS.wcs_pix2world) struggling with arrays given from `sample_points` attribute of PathFromCenter. --> referring back to original FITS cube confuses `wcs_pix2world` because of 4 axes (RA, Dec, Frequency, Stokes). --> `wcs.dropaxis(-1)` twice to remove Stokes and Frequency axes. 
 
 
 
