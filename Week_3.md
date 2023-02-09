@@ -32,6 +32,7 @@ Peak position of 1.3mm dust continuum located R.A. = 16h 57m 19.647s, Dec = -16Â
 
 Find method to set continuum source as angular offset 0" while default starts at endpoint of slice. 
 
+![Alt text](Downloads/PV_diagram(1).png)
 
 ### Thursday 2/9
 
