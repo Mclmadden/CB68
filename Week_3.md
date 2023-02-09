@@ -41,5 +41,8 @@ Able to take slices centered on outflow axis and create PV diagrams!
 
 Default x-axis still bases angular offset relative to starting point of slice, rather than the center point. 
 
+Adding contours of protostar (to match Imai and Oya PV diagrams) also requires passing a 2-axes PrimaryHDU object.
+
 
 ### Friday 2/10
+
