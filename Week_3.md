@@ -41,8 +41,16 @@ Able to take slices centered on outflow axis and create PV diagrams!
 
 Default x-axis still bases angular offset relative to starting point of slice, rather than the center point. 
 
-Adding contours of protostar (to match Imai and Oya PV diagrams) also requires passing a 2-axes PrimaryHDU object.
+Adding contours of protostar (to match Imai and Oya PV diagrams) requires specifying the Frequency and Stokes indices before passing through entire RA and Dec axes: `slice_num` for chosen frequency slice and `0` for Stokes I.
 
 
 ### Friday 2/10
+
+RA axis displayed in hour angle units has label overlap. --> `set_ticks(number)` and `display_minor_ticks`
+
+Loop through all the sample points along the outflow, automating the PV diagram process for a given velocity/frequency slice. 
+
+Experiment with centering angular offset by subtracting the median value from the entire x-axis? 
+
+Run test script on Archive CS and SO data. 
 
