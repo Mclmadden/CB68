@@ -46,11 +46,10 @@ Adding contours of protostar (to match Imai and Oya PV diagrams) requires specif
 
 ### Friday 2/10
 
-RA axis displayed in hour angle units has label overlap. --> `set_ticks(number)` and `display_minor_ticks`
+RA axis displayed in hour angle units has label overlap. --> `set_ticks(number)` and `display_minor_ticks(True)` 
 
-Loop through all the sample points along the outflow, automating the PV diagram process for a given velocity/frequency slice. 
-
-Experiment with centering angular offset by subtracting the median value from the entire x-axis? 
+Loop through all the sample points along the outflow, automating the PV diagram process for a given velocity/frequency slice. --> `set_aspect` shifts across diagrams
 
 Run test script on Archive CS and SO data. 
 
+Experiment with making angular offset relative to outflow central coordinates. 
