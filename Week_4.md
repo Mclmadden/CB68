@@ -4,7 +4,7 @@ Script works on archive data with adjustments to frequency/velocity slice and `s
 
 Look into methods to overwrite the `imshow` axes to center the angular offset at the outflow center coordinates. 
 
-`extent` parameter of `imshow` basing arguments off of pixel/index? 
+`extent` parameter of `imshow` basing arguments off of pixel/index? --> not behaving as expected
 
 ### Tuesday 2/14 
 
@@ -15,4 +15,8 @@ Roundabout method to rewrite the axes labels in order to center the Angular Offs
 Issues with NM gygax system requiring maintenance throughout the day. 
 
 ### Wednesday 2/15
+
+Ask about "inelegant" axes overwriting solution as a temporary fix? 
+
+Difficulty tracing axes back to `imshow` using data created from `pvextractor.extract_pv_slice`.
 
