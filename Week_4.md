@@ -4,7 +4,7 @@ Script works on archive data with adjustments to frequency/velocity slice and `s
 
 Look into methods to overwrite the `imshow` axes to center the angular offset at the outflow center coordinates. 
 
-`extent` parameter of `imshow` basing arguments off of pixel/index? --> not behaving as expected
+`extent` parameter of `imshow` basing arguments off of pixel coordinates? --> not behaving as expected
 
 ### Tuesday 2/14 
 
@@ -20,3 +20,6 @@ Ask about "inelegant" axes overwriting solution as a temporary fix?
 
 Difficulty tracing axes back to `imshow` using data created from `pvextractor.extract_pv_slice`.
 
+E.g., CCH `print(im.get_extent())` returns the pixel coordinates `(-0.5,98.5,-0.5,475.5)` 
+
+Experimenting with `extent` (and `aspect='auto'`) adjusts Angular Offset and Velocity boundaries but difficult to obtain accurate limits, e.g., `extent=(-10,10,30,-30)` returns plot displaying x spanning -2 to 2 and y spanning approximately 38.5 to 30.
