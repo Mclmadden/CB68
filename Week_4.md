@@ -23,3 +23,8 @@ Difficulty tracing axes back to `imshow` using data created from `pvextractor.ex
 E.g., CCH `print(im.get_extent())` returns the pixel coordinates `(-0.5,98.5,-0.5,475.5)` 
 
 Experimenting with `extent` (and `aspect='auto'`) adjusts Angular Offset and Velocity boundaries but difficult to obtain accurate limits, e.g., `extent=(-10,10,30,-30)` returns plot displaying x spanning -2 to 2 and y spanning approximately 38.5 to 30.
+
+### Thursday 2/16
+
+Sent sample code to change plot axes labels. 
+
