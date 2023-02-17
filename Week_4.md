@@ -28,3 +28,18 @@ Experimenting with `extent` (and `aspect='auto'`) adjusts Angular Offset and Vel
 
 Sent sample code to change plot axes labels. 
 
+
+Removed warning produced when running data cube with a Stokes axis through `SpectralCube` instead of `StokesSpectralCube`; select specific warning from GitHub page: https://github.com/radio-astro-tools/spectral-cube/blob/master/spectral_cube/utils.py
+
+
+```
+import warnings
+from spectral_cube.utils import StokesWarning
+warnings.filterwarnings(action='ignore', category=StokesWarning,
+                        append=True)
+```
+
+### Friday 2/17
+
+Take a look at sample code that modifies axes the long way...
+
