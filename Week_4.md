@@ -43,3 +43,14 @@ warnings.filterwarnings(action='ignore', category=StokesWarning,
 
 Take a look at sample code that modifies axes the long way...
 
+FITS cube header definitions:
+
+```
+CRVAL n	coordinate value at reference point
+CRPIX n	array location of the reference point in pixels
+CDELT n	coordinate increment at reference point
+CTYPE n	axis type (8 characters)
+CROTA n	rotation from stated coordinate type.
+```
+
+Long weekend: Monday off for President's Day 
