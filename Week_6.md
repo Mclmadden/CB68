@@ -19,3 +19,9 @@ CCH 262004 GHz as SPW in 41 in Setup 2 (244-259GHz)
 ### Tuesday 2/28
 
 Start making moment 0 and moment 1 maps with `spectral-cube`.
+
+```
+cube = SpectralCube.read(file)
+moment0 = cube.moment(order=0)
+moment0.writeto('moment0.fits') #saves moment map as FITS file
+```
