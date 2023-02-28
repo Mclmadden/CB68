@@ -25,3 +25,6 @@ cube = SpectralCube.read(file)
 moment0 = cube.moment(order=0)
 moment0.writeto('moment0.fits') #saves moment map as FITS file
 ```
+`moment` produces a Projection instances, which behave like Quantity objects to allow for easy file saving and conversion to WCS or FITS HDU.
+
+View moment maps in `matplotlib`.
