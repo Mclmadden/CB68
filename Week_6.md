@@ -32,3 +32,9 @@ View moment maps in `matplotlib` as with the original spectral cubes:
 > format figure axes and colorbar
 
 > add contour of continuum source, rather than the contours of the specific moment map (or PV diagram)
+
+### Wednesday 3/1
+
+### Thursday 3/2
+
+### Friday 3/3 
