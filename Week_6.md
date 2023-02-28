@@ -27,4 +27,8 @@ moment0.writeto('moment0.fits') #saves moment map as FITS file
 ```
 `moment` produces a Projection instances, which behave like Quantity objects to allow for easy file saving and conversion to WCS or FITS HDU.
 
-View moment maps in `matplotlib` --> add contour of continuum source, rather than the contours of the specific moment map (or PV diagram)
+View moment maps in `matplotlib` as with the original spectral cubes:
+
+> format figure axes and colorbar
+
+> add contour of continuum source, rather than the contours of the specific moment map (or PV diagram)
