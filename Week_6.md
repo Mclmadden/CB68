@@ -35,7 +35,7 @@ View moment maps in `matplotlib` as with the original spectral cubes:
 
 ### Wednesday 3/1
 
-Loop through tracers and create moment 0 maps with molecular tracer labeled on the figure.
+Loop through tracers and create moment 0 maps with molecular tracer labeled on the figure. Saved as pngs.
 
 $$Moment 0: M_0 \int I dx$$
 
@@ -45,7 +45,7 @@ $$Moment N: M_N = \frac{\int I (x - M_1)^N dx}{M_0}$$
 
 Moment1 maps encountering `RuntimeWarning: invalid value encountered in true_divide` when NaN/NaN?
 
-Look at manually overwriting Angular Offset axes of PV diagrams. 
+Look at manually overwriting Angular Offset axes of PV diagrams or resolve `extent` keyword argument of `imshow`.
 
 ### Thursday 3/2
 
