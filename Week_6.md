@@ -52,7 +52,7 @@ Look at manually overwriting Angular Offset axes of PV diagrams or resolve `exte
 > `ax.set_xticks` and `ax.set_xticklabels` 
 > conversion between pixel coordinates and wcs
 
-Copied `CB68-Setup1` and `CB68-Setup2` directories `moments` and `plots` to `/lustre/aoc/students/mmadden` in order to `scp` to local directories.
+Copied `CB68-Setup1` and `CB68-Setup2` directories `moments` and `plots` to `/lustre/aoc/students/mmadden` in order to `scp` to local directories. `moments` contains 192 files, and `plots` contains 58 files.
 
 ### Thursday 3/2
 
