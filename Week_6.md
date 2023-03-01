@@ -43,6 +43,8 @@ $$Moment 1: M_1 = \frac{\int I x dx}{M_0}$$
 
 $$Moment N: M_N = \frac{\int I (x - M_1)^N dx}{M_0}$$
 
+Moment1 maps encountering `RuntimeWarning: invalid value encountered in true_divide` when NaN/NaN?
+
 Look at manually overwriting Angular Offset axes of PV diagrams. 
 
 ### Thursday 3/2
