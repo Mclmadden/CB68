@@ -37,13 +37,15 @@ View moment maps in `matplotlib` as with the original spectral cubes:
 
 Loop through tracers and create moment 0 maps with molecular tracer labeled on the figure. Saved as pngs.
 
+For now, molecular tracer annotations are located in the bottom left corner of the figures because of difficulty obtaining the maximum y-axis value to automate placing the annotations in the upper left corner.
+
 $$Moment 0: M_0 \int I dx$$
 
 $$Moment 1: M_1 = \frac{\int I x dx}{M_0}$$
 
 $$Moment N: M_N = \frac{\int I (x - M_1)^N dx}{M_0}$$
 
-Moment1 maps encountering `RuntimeWarning: invalid value encountered in true_divide` when NaN/NaN?
+Moment1 maps encountering `RuntimeWarning: invalid value encountered in true_divide`. Resolved issue on GitHub page discusses fully masked cubes encountering NaN/NaN?
 
 Look at manually overwriting Angular Offset axes of PV diagrams or resolve `extent` keyword argument of `imshow`.
 
