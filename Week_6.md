@@ -37,15 +37,11 @@ View moment maps in `matplotlib` as with the original spectral cubes:
 
 Loop through tracers and create moment 0 maps with molecular tracer labeled on the figure.
 
-```math
-Moment 0: M_0 \int I dx
+$$Moment 0: M_0 \int I dx$$
 
+$$Moment 1: M_1 = \frac{\int I x dx}{M_0}$$
 
-Moment 1: M_1 = \frac{\int I x dx}{M_0}
-
-
-Moment N: M_N = \frac{\int I (x - M_1)^N dx}{M_0}
-```
+$$Moment N: M_N = \frac{\int I (x - M_1)^N dx}{M_0}$$
 
 Look at manually overwriting Angular Offset axes of PV diagrams. 
 
