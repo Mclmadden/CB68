@@ -50,8 +50,12 @@ Moment1 maps encountering `RuntimeWarning: invalid value encountered in true_div
 Look at manually overwriting Angular Offset axes of PV diagrams or resolve `extent` keyword argument of `imshow`. 
 
 > `ax.set_xticks` and `ax.set_xticklabels` 
-> 
+> conversion between pixel coordinates and wcs
+
+Copied `CB68-Setup1` and `CB68-Setup2` directories `moments` and `plots` to `/lustre/aoc/students/mmadden` in order to `scp` to local directories.
 
 ### Thursday 3/2
+
+Work on new data! 
 
 ### Friday 3/3 
