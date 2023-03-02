@@ -58,7 +58,7 @@ Copied `CB68-Setup1` and `CB68-Setup2` directories `moments` and `plots` to `/lu
 
 Work on new data!
 
-Swap in new data files into Python scripts: use primary beam corrected mom0 files for now.
+Swap in new data files into Python scripts: use attenuated (not primary beam corrected) moment0 maps for visualization. Use primary beam corrected versions of the data for analysis later on, e.g. measuring integrated intensity to calculate column density.
 
 Mix and match moment 0 maps and contours of different molecular tracers.
 
