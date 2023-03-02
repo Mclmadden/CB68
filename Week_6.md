@@ -60,6 +60,10 @@ Work on new data!
 
 Swap in new data files into Python scripts: use attenuated (not primary beam corrected) moment0 maps for visualization. Use primary beam corrected versions of the data for analysis later on, e.g. measuring integrated intensity to calculate column density.
 
-Mix and match moment 0 maps and contours of different molecular tracers.
+Mix and match moment 0 maps and contours of different molecular tracers. 
+
+Greyscale colormaps and brightly colored contours to improve the contrast. 
 
 ### Friday 3/3 
+
+Change slices for PV diagrams from single pixels to rectangles about the width of the beam size (~7 pixels).
