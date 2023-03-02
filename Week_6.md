@@ -56,6 +56,10 @@ Copied `CB68-Setup1` and `CB68-Setup2` directories `moments` and `plots` to `/lu
 
 ### Thursday 3/2
 
-Work on new data! 
+Work on new data!
+
+Swap in new data files into Python scripts: use primary beam corrected mom0 files for now.
+
+Mix and match moment 0 maps and contours of different molecular tracers.
 
 ### Friday 3/3 
