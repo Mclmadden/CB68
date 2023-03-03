@@ -67,3 +67,7 @@ Greyscale colormaps and brightly colored contours to improve the contrast.
 ### Friday 3/3 
 
 Change slices for PV diagrams from single pixels to rectangles about the width of the beam size (~7 pixels).
+
+Look into obtaining the new data to plug into the PV diagram script. 
+
+Loop through permutations of moment 0 maps and contours? 
