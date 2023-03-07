@@ -10,4 +10,10 @@ Mix and match moment 0 maps and contours, starting with molecular tracers SiO, c
 
 ### Tuesday 3/7
 
-Look into obtaining the new data to plug into the PV diagram script. 
+Add black and red labels to indicate moment map and contour tracers respectively.
+
+Disk(?) doesn't align when comparing most tracers to CCH and C18O disks. 
+
+Look into obtaining the new data to plug into the PV diagram script --> large files to copy over to lustre and download locally? 
+
+### Wednesday 3/8
