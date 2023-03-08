@@ -23,3 +23,14 @@ Set up new weekly meeting?
 `images` directories from CB68 setups are much too large to download locally; each image file is 680 GB! --> work within birdseye or check out a node
 
 Feedback on CCH and C18O disks not matching up with the rest of the tracers: check CARTA for plotting issue, and zoom in on the source to negate aliasing effects. 
+
+Find better method than roughly picking pixel coordinates for `ax.set_xlim` and `ax.set_ylim`.
+
+Scheduled meeting tomorrow to discuss. 
+
+### Thursday 3/9
+
+
+
+### Friday 3/10
+
