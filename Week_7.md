@@ -17,3 +17,9 @@ Disk(?) doesn't align when comparing most tracers to CCH and C18O disks.
 Look into obtaining the new data to plug into the PV diagram script --> large files to copy over to lustre and download locally? 
 
 ### Wednesday 3/8
+
+Set up new weekly meeting? 
+
+`images` directories from CB68 setups are much too large to download locally; each image file is 680 GB! --> work within birdseye or check out a node
+
+Feedback on CCH and C18O disks not matching up with the rest of the tracers: check CARTA for plotting issue, and zoom in on the source to negate aliasing effects. 
