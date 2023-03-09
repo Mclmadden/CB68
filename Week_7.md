@@ -30,7 +30,13 @@ Scheduled meeting tomorrow to discuss.
 
 ### Thursday 3/9
 
+SSH tunneling not connecting to gateway (but connects to computer and node). May have to redirect connection to a different port in gateway.
 
+Reserved `nmpost004` node for 14 days.
+
+Figure out misalignment of some moment maps --> suspected errors in the file headers. 
+
+Imai et al. (2022) Figure 2 shows integrated intensity maps of C18O, c-C3H2, and CCH with continuum extinction contours: C18O aligns with contours, while CCH doesn't align with contours... 
 
 ### Friday 3/10
 
