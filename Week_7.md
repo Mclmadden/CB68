@@ -40,3 +40,4 @@ Imai et al. (2022) Figure 2 shows integrated intensity maps of C18O, c-C3H2, and
 
 ### Friday 3/10
 
+`scp` one or two image files (CS and CCH?) to plug into PV plotting script locally.
