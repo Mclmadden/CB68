@@ -4,3 +4,5 @@ Set up meeting for tomorrow to discuss new data PV diagrams, outflow position an
 
 ### Tuesday 3/14
 
+Lustre maintanance today at 14:00 ET. 
+
