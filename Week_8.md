@@ -29,3 +29,5 @@ Upgrade Astropy version to be compatible with Numpy version.
 Add other molecular tracers to pre-written PV diagram script --> check in CARTA for slice number in cube. 
 
 `plt.subplots` dislikes new data headers having time in 'UTC' rather than 'utc' --> add `hdu.header['TIMESYS'] = 'utc'` to loops where `plt.subplots` is called. 
+
+Most likely use `cube.spectral_slab(lowerlim, upperlim)` to extract smaller data cubes before running through `extract_pv_slice`, which results in kernel shutdown timeout with so many files.
