@@ -20,3 +20,5 @@ Start with CS, CCH, c-C3H2, H2CO, C18O, SiO, and SO when working on longer Pytho
 
 ### Wednesday 3/15 
 
+Start Overleaf draft with basic section headers and use as place to draft figures and captions. 
+
