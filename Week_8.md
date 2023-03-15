@@ -27,3 +27,5 @@ Copy pre-written Python notebooks to NM lustre directory. Open tunnel from node 
 Upgrade Astropy version to be compatible with Numpy version.
 
 Add other molecular tracers to pre-written PV diagram script --> check in CARTA for slice number in cube. 
+
+`plt.subplots` dislikes new data headers having time in 'UTC' rather than 'utc' --> add `hdu.header['TIMESYS'] = 'utc'` to loops where `plt.subplots` is called. 
