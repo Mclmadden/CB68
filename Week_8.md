@@ -22,3 +22,5 @@ Start with CS, CCH, c-C3H2, H2CO, C18O, SiO, and SO when working on longer Pytho
 
 Start Overleaf draft with basic section headers and use as place to draft figures and captions. 
 
+Copy pre-written Python notebooks to NM lustre directory. Open tunnel from node with `jupyter lab --no-browser /lustre/aoc/students/mmadden/<file>.ipynb`.
+
