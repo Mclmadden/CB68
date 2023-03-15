@@ -24,3 +24,6 @@ Start Overleaf draft with basic section headers and use as place to draft figure
 
 Copy pre-written Python notebooks to NM lustre directory. Open tunnel from node with `jupyter lab --no-browser /lustre/aoc/students/mmadden/<file>.ipynb`.
 
+Upgrade Astropy version to be compatible with Numpy version.
+
+Add other molecular tracers to pre-written PV diagram script --> check in CARTA for slice number in cube. 
