@@ -28,15 +28,15 @@ Upgrade Astropy version to be compatible with Numpy version.
 
 Add other molecular tracers to pre-written PV diagram script --> check slice number in ds9.
   
---> SiO = 
+> SiO = 
 
---> c-C3H2 = 
+> c-C3H2 = 
 
---> H2CO = 
+> H2CO = 
 
---> C18O = 
+> C18O = 
 
---> SO = 
+> SO = 
 
 `plt.subplots` dislikes new data headers having time in 'UTC' rather than 'utc' --> add `hdu.header['TIMESYS'] = 'utc'` to loops where `plt.subplots` is called. 
 
