@@ -53,4 +53,17 @@ Misalignment of CCH and C18O compared to the other molecules could be due to CCH
 Velocity ranges of molecular tracers for channel maps:
 
 > CS = 2 - 8.5 km/s
+
 > CCH = 1 - 6.2 km/s
+
+> c-C3H2 = 3 - 6.3 km/s
+
+> H2CO = 2.5 - 8 km/s
+
+> C18O = 3 - 7.5 km/s
+
+> SiO = 2.2 - 6.5 km/s
+
+> SO = 2.5 - 7.2 km/s
+
+Set general range to 1 - 8.5 km/s for all channel maps.
