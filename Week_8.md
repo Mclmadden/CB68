@@ -44,3 +44,8 @@ Most likely use `cube.spectral_slab(lowerlim, upperlim)` to extract smaller data
 
 ### Thursday 3/16 
 
+Takes ~90 minutes for PV script to run 7 spectral slabs through `extract_pv_slice` --> keep running in the background?
+
+Inspect the 7 molecules in CARTA to determine colormap stretch parameters. 
+
+Misalignment of CCH and C18O compared to the other molecules could be due to CCH and C18O not necessarily tracing the isolate protostar but outflow structure. Double parabolic structure observed could hint at either a low-mass binary star with intersecting outflows or an infalling stream of gas and dust.
