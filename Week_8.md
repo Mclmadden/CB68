@@ -49,3 +49,8 @@ Takes ~90 minutes for PV script to run 7 spectral slabs through `extract_pv_slic
 Inspect the 7 molecules in CARTA to determine colormap stretch parameters. 
 
 Misalignment of CCH and C18O compared to the other molecules could be due to CCH and C18O not necessarily tracing the isolate protostar but outflow structure. Double parabolic structure observed could hint at either a low-mass binary star with intersecting outflows or an infalling stream of gas and dust.
+
+Velocity ranges of molecular tracers for channel maps:
+
+> CS = 2 - 8.5 km/s
+> CCH = 1 - 6.2 km/s
