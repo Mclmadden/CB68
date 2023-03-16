@@ -67,3 +67,5 @@ Velocity ranges of molecular tracers for channel maps:
 > SO = 2.5 - 7.2 km/s
 
 Set general range to 1 - 8.5 km/s for all channel maps.
+
+Generate channel maps with `plt.subplots` or generate individually and edit in Inkscape?
