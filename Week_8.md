@@ -77,3 +77,6 @@ Inspect the 7 molecules in CARTA to determine colormap stretch parameters for th
 Experiment with bounds to zoom in on outflow regions, rather than the entire field of view.
 
 Generate channel maps with `plt.subplots` or generate individually and edit in Inkscape?
+
+Throw figures into powerpoint draft to present to collaborators. 
+
