@@ -22,7 +22,9 @@ Start with CS, CCH, c-C3H2, H2CO, C18O, SiO, and SO when working on longer Pytho
 
 Start Overleaf draft with basic section headers and use as place to draft figures and captions. 
 
-Copy pre-written Python notebooks to NM lustre directory. Open tunnel from node with `jupyter lab --no-browser /lustre/aoc/students/mmadden/<file>.ipynb`.
+Copy pre-written Python notebooks to NM lustre directory. Open tunnel from node with `jupyter lab --no-browser /lustre/aoc/students/mmadden`.
+
+Working through VNC is much faster than directly on the work station. 
 
 Upgrade Astropy version to be compatible with Numpy version.
 
@@ -46,8 +48,6 @@ Most likely use `cube.spectral_slab(lowerlim, upperlim)` to extract smaller data
 
 Takes ~90 minutes for PV script to run 7 spectral slabs through `extract_pv_slice` --> keep running in the background?
 
-Inspect the 7 molecules in CARTA to determine colormap stretch parameters. 
-
 Misalignment of CCH and C18O compared to the other molecules could be due to CCH and C18O not necessarily tracing the isolate protostar but outflow structure. Double parabolic structure observed could hint at either a low-mass binary star with intersecting outflows or an infalling stream of gas and dust.
 
 Velocity ranges of molecular tracers for channel maps:
@@ -69,3 +69,10 @@ Velocity ranges of molecular tracers for channel maps:
 Set general range to 1 - 8.5 km/s for all channel maps.
 
 Generate channel maps with `plt.subplots` or generate individually and edit in Inkscape?
+
+### Friday 3/17
+
+Format figures for channel maps. 
+
+Inspect the 7 molecules in CARTA to determine colormap stretch parameters for the moment maps.
+
