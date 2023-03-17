@@ -66,7 +66,7 @@ Velocity ranges of molecular tracers for channel maps:
 
 > SO = 2.5 - 7.2 km/s
 
-Set general range to 1 - 8.5 km/s for all channel maps.
+Set general range to 1 - 8.5 km/s for all channel maps --> narrow channels result in 45-55 figures per molecule in that range.
 
 ### Friday 3/17
 
@@ -74,9 +74,10 @@ Format figures for channel maps.
 
 Inspect the 7 molecules in CARTA to determine colormap stretch parameters for the moment maps script.
 
-Experiment with bounds to zoom in on outflow regions, rather than the entire field of view.
+Experiment with bounds to zoom in on outflow regions, rather than the entire field of view --> offset to the northwest.
 
 Generate channel maps with `plt.subplots` or generate individually and edit in Inkscape?
 
 Throw figures into powerpoint draft to present to collaborators. 
 
+Experiencing VNC dropping due to refused connection to port 22... 
