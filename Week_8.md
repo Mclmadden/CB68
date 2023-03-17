@@ -68,11 +68,12 @@ Velocity ranges of molecular tracers for channel maps:
 
 Set general range to 1 - 8.5 km/s for all channel maps.
 
-Generate channel maps with `plt.subplots` or generate individually and edit in Inkscape?
-
 ### Friday 3/17
 
 Format figures for channel maps. 
 
-Inspect the 7 molecules in CARTA to determine colormap stretch parameters for the moment maps.
+Inspect the 7 molecules in CARTA to determine colormap stretch parameters for the moment maps script.
 
+Experiment with bounds to zoom in on outflow regions, rather than the entire field of view.
+
+Generate channel maps with `plt.subplots` or generate individually and edit in Inkscape?
