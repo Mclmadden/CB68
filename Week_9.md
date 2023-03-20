@@ -7,3 +7,8 @@ Adjust zoom regions for channel maps --> estimate SkyCoord and convert to pixel 
 > y-axis boundary: Dec = -16d 09m 30s, Dec = -16d 09m 08s
 
 Remove axes labels and tick labels in preparation for channel map assembly. 
+
+Locally download all individual figures to configure in Inkscape.
+
+### Tuesday 3/21 
+
