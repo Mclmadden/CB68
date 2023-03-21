@@ -12,3 +12,5 @@ Locally download all individual figures to configure in Inkscape.
 
 ### Tuesday 3/21 
 
+Import all channel figures into Inkscape to arrange into full channel maps.
+
