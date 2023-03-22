@@ -14,7 +14,7 @@ Locally download all individual figures to configure in Inkscape.
 
 Import all channel figures into Inkscape to arrange into full channel maps.
 
-Need to remake channel figures with consistent colorscale determined by maximum cube value and ~3$\sigma$ for the minimum.
+Need to remake channel figures with consistent colorscale determined by maximum cube value and $3\sigma$ for the minimum.
 
 Change colorscale for figures to `cmap='magma'` for better contrast. 
 
