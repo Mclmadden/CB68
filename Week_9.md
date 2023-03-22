@@ -14,23 +14,37 @@ Locally download all individual figures to configure in Inkscape.
 
 Import all channel figures into Inkscape to arrange into full channel maps.
 
-Need to remake channel figures with consistent colorscale determined by maximum cube value and $3\sigma$ for the minimum.
+Prepare for meeting.
 
-Change colorscale for figures to `cmap='magma'` for better contrast. 
+Meeting To-Do List:
 
-Adjust channel map velocity range to 2 - 8 km/s because CCH originally set the minimum to 1 km/s, but CCH feature is duplicated, so one of them can be cut off.
+> Need to remake channel figures with consistent colorscale determined by maximum cube value and $3\sigma$ for the minimum.
 
-Enlarge and bold velocity text for individual figures in channel maps for legibility. 
+> Change colorscale for figures to `cmap='magma'` for better contrast. 
 
-Add colorbars to the empty space in channel maps. 
+> Adjust channel map velocity range to 2 - 8 km/s because CCH originally set the minimum to 1 km/s, but CCH feature is duplicated, so one of them can be cut off.
 
-Choose consistent window size and vmin/vmax for moment 0 maps --> a little saturation at source location is acceptable, add 3-5 contours to make up for the loss.  
+> Enlarge and bold velocity text for individual figures in channel maps for legibility. 
 
-Set moment map NaN values to 0 to hide mask features. 
+> Add colorbars to the empty space in channel maps. 
 
-Potentially use CS as an example to create 1x3 figure with moments 0, 1, and 2 maps: magma, diverging red/blue, and a third cmap option. 
+> Choose consistent window size and vmin/vmax for moment 0 maps --> a little saturation at source location is acceptable, add 3-5 contours to make up for the loss.  
 
-Add subsections to the Discussion section in Overleaf draft with qualitative descriptions of each molecule's morphology seen in the channel maps. 
+> Set moment map NaN values to 0 to hide mask features. 
+
+> Potentially use CS as an example to create 1x3 figure with moments 0, 1, and 2 maps: magma, diverging red/blue, and a third cmap option. 
+
+> Add subsections to the Discussion section in Overleaf draft with qualitative descriptions of each molecule's morphology seen in the channel maps. 
 
 ### Wednesday 3/22
 
+Determine vmins/vmaxes for channel maps, and change cmap to magma.
+
+Generate standalone colobars for channel maps.
+
+Re-assemble channel maps in Inkscape with consistent colorscales.
+
+### Thursday 3/23
+
+
+### Friday 3/24
