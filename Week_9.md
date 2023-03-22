@@ -42,7 +42,7 @@ Determine vmins/vmaxes for channel maps, and change cmap to magma.
 
 Generate standalone colobars for channel maps.
 
-Re-assemble channel maps in Inkscape with consistent colorscales.
+Re-assemble channel maps in Inkscape with consistent colorscales: completed CS, CCH
 
 ### Thursday 3/23
 
