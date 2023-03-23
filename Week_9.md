@@ -14,7 +14,7 @@ Locally download all individual figures to configure in Inkscape.
 
 Import all channel figures into Inkscape to arrange into full channel maps.
 
-Prepare for meeting.
+Prepare for meeting with PI.
 
 Meeting To-Do List:
 
@@ -42,9 +42,21 @@ Determine vmins/vmaxes for channel maps, and change cmap to magma.
 
 Generate standalone colobars for channel maps.
 
-Re-assemble channel maps in Inkscape with consistent colorscales: completed CS, CCH, c-C3H2, H2CO
+Re-assemble channel maps in Inkscape with consistent colorscales: completed CS, CCH, c-C3H2, H2CO, C18O, SiO, and SO.
+
+Prepare for group meeting.
 
 ### Thursday 3/23
+
+Add contours to moment 0 maps to compensate for the saturation near the source.
+
+Set NaN values in moment 0 maps to 0 to disguise mask features.
+
+```
+nans = np.isnan(data[0,:,:])
+data[0,nans] = 0
+```
+
 
 
 ### Friday 3/24
