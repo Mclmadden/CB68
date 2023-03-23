@@ -50,13 +50,16 @@ Prepare for group meeting.
 
 Add contours to moment 0 maps to compensate for the saturation near the source.
 
-Set NaN values in moment 0 maps to 0 to disguise mask features.
+Set NaN values in moment 0 maps to 0 to disguise mask features:
 
 ```
 nans = np.isnan(data[0,:,:])
 data[0,nans] = 0
+im = ax.imshow(data[0,:,:], cmap='magma', vmin=vmin, vmax=vmax)
 ```
 
+Determine a consistent vmin and vmax for all the moment 0 maps.
 
+Create moment 0, 1, and 2 maps of CS --> numpy versions more recent than 1.23.5 return error with `cube.moment(order=0)` from SpectralCube: `AttributeError: module 'numpy' has no attribute 'bool'`
 
 ### Friday 3/24
