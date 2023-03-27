@@ -63,3 +63,11 @@ Determine a consistent vmin and vmax for all the moment 0 maps.
 Create moment 0, 1, and 2 maps of CS --> numpy versions more recent than 1.23.5 return error with `cube.moment(order=0)` from SpectralCube: `AttributeError: module 'numpy' has no attribute 'bool'`
 
 ### Friday 3/24
+
+Determine vmin/vmax for CS moments 1 and 2 maps.
+
+Imai et al. (2022) observed the southwest side of the outflow is redshifted, and the northeast side is blueshifted --> reflect the redshift/blueshift in the moment 1 (diverging) cmap.
+
+Write up the 7 tracer morphologies in the Overleaf draft.
+
+Notable mention of SO's compact structure throughout the channel map. 
