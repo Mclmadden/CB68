@@ -28,3 +28,13 @@ Send new PV diagrams to PI.
 
 ### Wednesday 3/29
 
+Determine new vmin values for C18O, H2CO, and c-C3H2 channel maps in CARTA based on the zoom windows for figures. 
+
+Re-assemble channel maps with updated colorscales in Inkscape. 
+
+Work on cleaning up jupyter notebook scripts for GitHub postings using ALMA Archive data cube as an example. 
+
+Group meeting this afternoon. 
+
+### Thursday 3/30 
+
