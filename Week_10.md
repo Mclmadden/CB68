@@ -32,7 +32,7 @@ Determine new vmin values for C18O, H2CO, and c-C3H2 channel maps in CARTA based
 
 Re-assemble channel maps with updated colorscales in Inkscape. 
 
-Work on cleaning up jupyter notebook scripts for GitHub postings using ALMA Archive data cube as an example. 
+Work on cleaning up jupyter notebook scripts for GitHub postings using ALMA Archive data cube as an example: posted as `PV_diagram.ipynb` in `Python_samples` repository. 
 
 Group meeting this afternoon. 
 
@@ -40,4 +40,11 @@ Group meeting this afternoon.
 
 PI obtained code for splicing together 2 matplotlib colormaps from Eric Koch (posted to Github).
 
-Generate moment 0 maps with spliced cmap, combining `Grey` and `hot`.
+Generate moment 0 maps with spliced cmap, combining `Grey` and `hot` with `pivot=0.2`. `pivot` parameter in defined function gives the fraction at which the cmaps are stitched together. 
+
+Organize subplots in Inkscape, e.g. new moment 0 maps.
+
+Continue working on Overleaf draft: Introduction, upload new figures, add sources. 
+
+### Friday 3/31 
+
