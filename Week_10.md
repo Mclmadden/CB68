@@ -38,3 +38,6 @@ Group meeting this afternoon.
 
 ### Thursday 3/30 
 
+PI obtained code for splicing together 2 matplotlib colormaps from Eric Koch (posted to Github).
+
+Generate moment 0 maps with spliced cmap, combining `Grey` and `hot`.
