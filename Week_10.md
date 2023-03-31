@@ -48,3 +48,8 @@ Continue working on Overleaf draft: Introduction, upload new figures, add source
 
 ### Friday 3/31 
 
+Continue research for Overleaf draft Introduction.
+
+Make more figures in Inkscape. 
+
+Add more (placeholder) figures to the Overleaf.
