@@ -18,3 +18,16 @@ Create PV diagrams of the 7 main tracers along both outflow axes for PI's presen
 
 ### Wednesday 5/4
 
+Read through document on outflow model.
+
+Inspect outflow modeling scripts. 
+
+FAUST meeting this evening ET: overview.
+
+### Thursday 5/5 
+
+FAUST meeting this evening ET: CB68.
+
+### Friday 5/6
+
+NRAO holiday.
