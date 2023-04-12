@@ -24,3 +24,7 @@ Meeting with PI
 
 ### Wednesday 4/12 
 
+Set `spectral_slab` range for all cubes to 3.80 - 4.65 km/s to produce 6 channels.
+
+Re-grid the other 6 molecular tracers to CS's spectral axis using `spectral_interpolate`.
+
