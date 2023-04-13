@@ -28,3 +28,13 @@ Set `spectral_slab` range for all cubes to 3.80 - 4.65 km/s to produce 6 channel
 
 Re-grid the other 6 molecular tracers to CS's spectral axis using `spectral_interpolate`.
 
+Use the same vmin/vmax across all tracers or keep individual values? 
+
+Export CARTA region tracing J-shape in CS channel 4.45 km/s. 
+
+### Thursday 4/13
+
+Read Nature article by Pineda et al. (2020) on protstellar streamer.
+
+Read PRODIGE article by Valdivia-Mena et al. (2022) on streamer.
+
