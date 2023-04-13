@@ -40,3 +40,5 @@ Read PRODIGE article by Valdivia-Mena et al. (2022) on streamer.
 
 CARTA's polyline region type is not supported by CRTF or ds9 formats --> create region from separate lines and read in individually. 
 
+### Friday 4/14
+
