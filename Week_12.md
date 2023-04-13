@@ -38,3 +38,5 @@ Read Nature article by Pineda et al. (2020) on protstellar streamer.
 
 Read PRODIGE article by Valdivia-Mena et al. (2022) on streamer.
 
+CARTA's polyline region type is not supported by CRTF or ds9 formats --> create region from separate lines and read in individually. 
+
