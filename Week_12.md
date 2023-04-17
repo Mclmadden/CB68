@@ -42,3 +42,8 @@ CARTA's polyline region type is not supported by CRTF or ds9 formats --> create 
 
 ### Friday 4/14
 
+Read in CARTA regions exported into ds9 files with pixel coordinates --> easier to overplot onto channel figures that also use pixel coordinates.
+
+Create 3-line regions that are exported all at once automatically with sets of endpoints stored in the file. 
+
+CS J-shape only aligns with H2CO! 
