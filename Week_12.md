@@ -46,4 +46,4 @@ Read in CARTA regions exported into ds9 files with pixel coordinates --> easier 
 
 Create 3-line regions that are exported all at once automatically with sets of endpoints stored in the file. 
 
-CS J-shape only aligns with H2CO! 
+CS J-shape only aligns with CCH feature! 
