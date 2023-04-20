@@ -30,3 +30,11 @@ Meeting with PI
 
 ### Thursday 4/20
 
+Convert Jshape coordinates using `wcs.wcs_world2pix`.
+
+Create figure with only 4.45 km/s channel in Inkscape, similar to the spliced cmap moment 0 map figure. 
+
+Create Appendix channel map of all 7 tracers spanning 3.85 - 4.60 km/s to demonstrate J-shape. 
+
+### Friday 4/21 
+
