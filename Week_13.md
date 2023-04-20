@@ -14,7 +14,7 @@ Read Valdivia-Mena et al. (2020).
 
 Meeting with PI rescheduled to tomorrow.
 
-## Wednesday 4/19
+### Wednesday 4/19
 
 Repeat first coordinates of polygon to close shape. 
 
