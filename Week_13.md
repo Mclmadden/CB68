@@ -38,3 +38,8 @@ Create Appendix channel map of all 7 tracers spanning 3.85 - 4.60 km/s to demons
 
 ### Friday 4/21 
 
+Matplotlib version doesn't support `copy` method for colormaps --> most recent version (3.7) doesn't work with current `plt.subplot` setting the argument `projection=wcs` --> force matplotlib to version 3.4.0 that is compatible with existing script and `copy`.
+
+Add in new figures.
+
+Continue adding to the Overleaf draft.
