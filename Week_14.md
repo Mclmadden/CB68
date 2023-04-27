@@ -32,3 +32,11 @@ Found paper that debates whether a feature is an infalling streamer or part of t
 
 ### Thursday 4/27 
 
+Search for more sources to add to Overleaf Introduction/Methods.
+
+Work on Jet vs. Streamer subsection in Discussion. 
+
+Polish up PV diagrams and upload figures to Overleaf. 
+
+### Friday 4/28 
+
