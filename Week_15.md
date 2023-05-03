@@ -16,4 +16,11 @@ Overleaf Results vs. Discussion sections and content.
 
 Meeting with PI
 
-> 
+> need to reduce size of pdf figures
+
+> convert all png to pdf in Python script
+
+> re-assemble combined figures in Inkscape and export as pdf
+
+### Thursday 5/4 
+
