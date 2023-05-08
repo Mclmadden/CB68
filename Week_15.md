@@ -32,3 +32,8 @@ N.B. when plotting the CS moment 1 and 2 maps that utilizes `copy`, force matplo
 
 ### Friday 5/5 
 
+Continue to remake figures as pdf.
+
+Channel map figures saved with dpi=50 --> further adjustment made through Adobe.
+
+Completed the 7 main channel maps and some of the smaller figures --> upload to and adjust sizing in Overleaf.
