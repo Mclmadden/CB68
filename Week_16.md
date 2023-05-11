@@ -24,5 +24,7 @@ Awaiting update from PI.
 
 Awaitng update from PI. 
 
+(ALMA propsal deadline this morning.)
+
 ### Friday 5/12 
 
