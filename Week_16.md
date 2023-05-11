@@ -8,3 +8,21 @@ After replacing all figures, full manuscript sits at 3.4 MB.
 
 ### Tuesday 5/9
 
+Adjust figure widths. 
+
+Full manuscript now sits at ~3.2 MB.
+
+Add some more co-authors/affiliations. 
+
+No word from PI.
+
+### Wednesday 5/10
+
+Awaiting update from PI.
+
+### Thursday 5/11 
+
+Awaitng update from PI. 
+
+### Friday 5/12 
+
