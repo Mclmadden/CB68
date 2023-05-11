@@ -14,17 +14,17 @@ Full manuscript now sits at ~3.2 MB.
 
 Add some more co-authors/affiliations. 
 
-No word from PI.
+No word from PI or modeling teams.
 
 ### Wednesday 5/10
+
+(ALMA propsal deadline this morning.)
 
 Awaiting update from PI.
 
 ### Thursday 5/11 
 
 Awaitng update from PI. 
-
-(ALMA propsal deadline this morning.)
 
 ### Friday 5/12 
 
