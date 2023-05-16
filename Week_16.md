@@ -25,6 +25,3 @@ Awaiting update from PI.
 ### Thursday 5/11 
 
 Awaitng update from PI. 
-
-### Friday 5/12 
-
