@@ -14,5 +14,7 @@ Meeting with PI
 
 Correct molecule names and units in Overleaf draft. 
 
+Awaiting reply from modeling teams. 
+
 ### Wednesday 5/17 
 
