@@ -30,4 +30,12 @@ Calculate distances between the protostar and coordinates along the path at afor
 
 Create paths using `PathFromCenter` centered on corresponding coordinates and perpendicular to outflow axes. 
 
+Extract PV slices (16 in total per molecular tracer). 
+
 Make PV diagrams.
+
+### Friday 5/19
+
+Assemble PV diagram grids in Inkscape.
+
+Upload to Overleaf and send to PI.
