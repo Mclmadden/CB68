@@ -10,6 +10,21 @@ Create CS PV diagram grid made perpendicular to outflow axis P.A. = 135° as exa
 
 ### Tuesday 5/23 
 
-Meeting with PI
+No meeting with PI.
 
-> 
+Continue working on 135° PV diagrams?
+
+### Wednesday 5/24
+
+No meeting with PI.
+
+Determine vmin/vmax for next batch of PV diagram rows per molecular tracer. 
+
+### Thursday 5/25 
+
+Produce 135° perpendicular PV diagrams.
+
+Start assembling new batch of grids in Inkscape. 
+
+### Friday 5/26
+
