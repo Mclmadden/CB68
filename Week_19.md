@@ -20,3 +20,8 @@ Download PI's presentation from FAUST meeting for figures.
 
 ### Wednesday 5/31 
 
+Look into LaTeX formatting the Appendix figures. 
+
+Start ppt with background/intro information.
+
+### Thursday 6/1
