@@ -20,8 +20,10 @@ Download PI's presentation from FAUST meeting for figures.
 
 ### Wednesday 5/31 
 
-Look into LaTeX formatting the Appendix figures. 
+Look into LaTeX formatting the Appendix figures --> okay to keep sequential numbering following text figures.
 
 Start ppt with background/intro information.
 
 ### Thursday 6/1
+
+Work on ppt.
