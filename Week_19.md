@@ -27,3 +27,7 @@ Start ppt with background/intro information.
 ### Thursday 6/1
 
 Work on ppt.
+
+### Friday 6/2
+
+Work on ppt.
