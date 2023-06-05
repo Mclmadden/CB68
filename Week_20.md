@@ -2,7 +2,9 @@
 
 Work on ppt.
 
-X Formation meeting with guest from Leiden University.
+X Formation meeting with guest from Leiden University --> set up one-on-one meeting.
+
+Meet with graduate student working on CB68 as part of eDisks.
 
 ### Tuesday 6/6
 
