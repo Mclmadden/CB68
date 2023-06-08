@@ -8,4 +8,18 @@ Meet with graduate student working on CB68 as part of eDisks --> streamer vs. ou
 
 ### Tuesday 6/6
 
-Meeting with PI.
+Ppt
+
+### Wednesday 6/7
+
+Ppt
+
+### Thursday 6/8
+
+Ppt
+
+### Friday 6/9
+
+Ppt
+
+PI visiting CV next week.
