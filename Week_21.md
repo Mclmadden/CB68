@@ -12,4 +12,12 @@ Create PV-diagram cut along J-shape --> compare to eDisks.
 
 ### Wednesday 6/14
 
-Meeting with PI.
+Assembled new figure of CS J-feature annotation and PV diagram of the J-feature.
+
+No meeting? 
+
+### Thursday 6/15 
+
+### Friday 6/16
+
+Last day in the office. 
